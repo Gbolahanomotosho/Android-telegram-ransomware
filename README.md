@@ -49,7 +49,7 @@
 # Command
 
 
- git clone https://github.com/Gbolahanomostosho/Android-telegram-ransomware
+ git clone https://github.com/Gbolahanomotosho/Android-telegram-ransomware
 
 
 
